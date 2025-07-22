@@ -1,0 +1,54 @@
+body{
+	margin: 0px;
+	background-color: #edeae1;
+}
+.header{
+	background-color: blue;
+}
+
+.header img{
+	
+
+	width:250px;
+	height: 250px;
+	
+}
+
+
+.header h1{
+
+	float: right;
+	color: write;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+.about{
+	padding: 20px;
+	display: flex;
+}
+.about p{
+
+	/*display: flex;*/
+	text-align: justify;
+	 line-height: 1.6;
+}
+.photo img{
+
+	padding-right: 10px;
+}
+.service{
+	text-align: center;
+}
+.mycontainer{
+	display:flex;
+}
+.mycontainer div{
+	width: 30%;
+	margin: 30px;
+	margin: 10px;
+	padding: 5px;
+}
+/*.mycontainer h2{*/
+	/*padding: 15px;*/
+/*}*/
